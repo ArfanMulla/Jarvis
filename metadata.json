@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS - AI Voice Assistant & Study Partner",
+  "description": "Futuristic audio-to-audio voice assistant and tutor powered by Gemini Live API with real-time bidirectional audio streaming, function calling, and full voice control in Hindi, English, and Hinglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

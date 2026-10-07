@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "name": "Arfan",
+    "preferredLanguage": "Hinglish",
+    "favoriteArtists": ["Arijit Singh", "Coldplay", "A.R. Rahman"],
+    "contacts": {
+      "Rahul": "+91-9876543210",
+      "Priya": "+91-9812345678",
+      "Aman": "+91-9823456789",
+      "Maa": "+91-9834567890"
+    },
+    "studySubjects": [
+      "Programming (C, C++, Python, DSA, OOP)",
+      "AI/ML (Linear/Logistic Regression, SVM, Clustering)",
+      "Deep Learning (Backpropagation, CNNs, Transformers, Attention)",
+      "LLMs & RAG",
+      "Mathematics (Calculus, Linear Algebra, Probability)"
+    ],
+    "examDates": [
+      {
+        "subject": "Machine Learning & Deep Learning",
+        "date": "15 December"
+      }
+    ]
+  },
+  "study_progress": [
+    {
+      "topic": "Gradient Descent & Learning Rate",
+      "status": "reviewed",
+      "notes": "Understood basic intuition; learning rate decay was a bit tricky. Needs quick revision."
+    },
+    {
+      "topic": "Backpropagation & Chain Rule",
+      "status": "to_cover",
+      "notes": "Scheduled to cover next: mathematical derivation and intuition."
+    }
+  ],
+  "conversation_summaries": [
+    {
+      "date": "Yesterday",
+      "summary": "Reviewed gradient descent cost landscapes, learning rate convergence, and touched on optimization algorithms."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-1",
+      "task": "Revise backpropagation derivation before 15 December exam",
+      "status": "pending"
+    },
+    {
+      "id": "task-2",
+      "task": "ML & DL Exam on 15 December",
+      "status": "active"
+    }
+  ]
+}
